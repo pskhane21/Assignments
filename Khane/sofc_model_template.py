@@ -43,7 +43,7 @@ class ptr:
     # # Approach 3: store the double layer potentials ONLY; handle the electrolyte
     # #   completely external to the integration:
     # #   NOTE: SET nvars = 2, FOR THIS APPROACH
-    # phi_dl_an = 0
+     phi_dl_an = 0
     # phi_dl_ca = 1
 
     # # Approach 4, 5, 6, etc...
